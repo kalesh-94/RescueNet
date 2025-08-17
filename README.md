@@ -31,8 +31,7 @@ It connects **Reporters** (who report rescue cases), **Volunteers** (who handle 
 |---------------|--------------------------|
 | Frontend      | JSP, HTML, CSS, Bootstrap |
 | Backend       | Java, Spring MVC          |
-| Persistence   | DAO, JDBC / Hibernate (depending on your config) |
-| Database      | MySQL (configurable in `application.properties`) |
+| Database      | MySQL with XAMPP (configurable in `application.properties`) |
 | Build Tool    | Maven                     |
 | Server        | Apache Tomcat             |
 
