@@ -67,6 +67,7 @@ Access: http://localhost:8080/RescueNet
 
 <video src="demo.mp4" controls width="600"></video>
 
+![WhatsApp Image 2025-08-17 at 16 08 04_87a9db1a](https://github.com/user-attachments/assets/85e41837-9652-4126-91e8-98a47e9c6c26)
 
 
 
